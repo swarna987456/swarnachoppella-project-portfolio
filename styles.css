@@ -17,10 +17,11 @@ body {
 h1 {
     font-size: 3em;
     margin-bottom: 10px;
+    font-family: 'Radley', serif;
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin-top: 0;
 }
 
